@@ -1,6 +1,6 @@
 - 👋 Hi, There
 - 🔭 I’m experienced in: `.js`, `react`, `react-native`, `.meteor.js`, `Node.js`, `Socket.io`, `mongodb`
-- 🌱 I’m currently learning `graphql`
+- 🌱 I’m currently learning `graphql` and `web3`
 - 📫 How to reach me <a href='mailto:vaibhav.bavishi222@gmail.com' >`@email`</a> <a href='https://www.linkedin.com/in/vaibhav22c/' >`@linkedin`</a> 
 
 <!---
