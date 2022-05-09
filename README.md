@@ -32,7 +32,7 @@
 
 
 
- | <a href="https://github.com/rajtejani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav22c&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vaibhav's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav22c&layout=compact&theme=buefy&hide_border=true" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav22c&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vaibhav's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav22c&layout=compact&theme=buefy&hide_border=true" />
 | ------------- | ------------- |
 
 <!---
