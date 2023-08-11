@@ -27,13 +27,8 @@
  
   </p>
   
-- 🌱 I’m currently learning `web3`
 - 📫 How to reach me <a href='mailto:vaibhav.bavishi222@gmail.com' >`@email`</a> <a href='https://www.linkedin.com/in/vaibhav22c/' >`@linkedin`</a> 
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav22c&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vaibhav's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav22c&layout=compact&theme=buefy&hide_border=true" />
-| ------------- | ------------- |
 
 <!---
 vaibhav22c/vaibhav22c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
